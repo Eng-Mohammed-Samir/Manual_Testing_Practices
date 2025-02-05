@@ -23,5 +23,4 @@ For the purpose of improving my skills in manual testing, i tried to do my best 
 
 ## Tools and extensions used:
 * Google sheets.
-* Developer tools (inspect).
-* Tweak (Mock API calls).
+
