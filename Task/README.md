@@ -1,5 +1,6 @@
 # Manual QA task
-* In this part i was aked to find 20 different types of bugs:
+In this part i was asked to:
+*  Find 20 different types of bugs:
   - [x] 2 content bugs.
   - [x] 2 visual bugs.
   - [x] 2 cross-browser bugs.
