@@ -10,10 +10,10 @@
 * Order bugs in the order of priority - from most critical ones on top to less critical ones under.
 
 ## Work products
-- [Bug Report](https://docs.google.com/spreadsheets/d/17mg-wTZRE9wwHCLV3r0HZhq7aIbufpsa21uN_E7w3UI/edit?gid=0#gid=0).
+### [Bug Report](https://docs.google.com/spreadsheets/d/17mg-wTZRE9wwHCLV3r0HZhq7aIbufpsa21uN_E7w3UI/edit?gid=0#gid=0).
 
 # Defining the expected result in detail
 I was asked to create a task for a developer to add specific notifications on specific actions.
 
 ## Work products
-- [Task](https://docs.google.com/document/d/1cgspNwqseSiUwwYmKQuLPmLxXKahKDF9ybtyno2fFV4/edit?tab=t.0#heading=h.yb8i8ngygho2).
+### [Task](https://docs.google.com/document/d/1cgspNwqseSiUwwYmKQuLPmLxXKahKDF9ybtyno2fFV4/edit?tab=t.0#heading=h.yb8i8ngygho2).
